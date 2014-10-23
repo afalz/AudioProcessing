@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AudioProcessing", "AudioProcessing\AudioProcessing.csproj", "{E4937588-8107-4DEE-890B-8C7053F40F33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4937588-8107-4DEE-890B-8C7053F40F33}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{E4937588-8107-4DEE-890B-8C7053F40F33}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{E4937588-8107-4DEE-890B-8C7053F40F33}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{E4937588-8107-4DEE-890B-8C7053F40F33}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{E4937588-8107-4DEE-890B-8C7053F40F33}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{E4937588-8107-4DEE-890B-8C7053F40F33}.Debug|iPhone.Build.0 = Debug|iPhone
+		{E4937588-8107-4DEE-890B-8C7053F40F33}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{E4937588-8107-4DEE-890B-8C7053F40F33}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{E4937588-8107-4DEE-890B-8C7053F40F33}.Release|iPhone.ActiveCfg = Release|iPhone
+		{E4937588-8107-4DEE-890B-8C7053F40F33}.Release|iPhone.Build.0 = Release|iPhone
+		{E4937588-8107-4DEE-890B-8C7053F40F33}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{E4937588-8107-4DEE-890B-8C7053F40F33}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = AudioProcessing\AudioProcessing.csproj
+	EndGlobalSection
+EndGlobal
